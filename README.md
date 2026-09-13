@@ -36,8 +36,7 @@ The current model includes:
 - Engineering Visualization
 
 ## 📷 Model Preview
-
-images/# Centrifugal Air Compressor — CATIA CAD Model
+![Centrifugal Air Compressor](compressor-isometric.png)
 
 ## 📌 Project Overview
 
