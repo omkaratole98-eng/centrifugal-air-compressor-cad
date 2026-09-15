@@ -58,14 +58,6 @@ Possible future extensions include:
 - Performance-related analysis
 - Design refinement based on engineering calculations
 
-## 📚 Learning Outcomes
 
-This project helped develop practical understanding of:
-
-- Mechanical component geometry
-- CATIA modelling workflow
-- Assembly relationships
-- Centrifugal compressor configuration
-- Engineering visualization
 
 
